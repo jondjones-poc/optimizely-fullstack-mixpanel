@@ -9,7 +9,8 @@ This project makes uses of:
 
 ## Live Site URL & Status 👻 
 
-[https://optimizely-fullstack-mixpanel.netlify.app/](https://optimizely-fullstack-mixpanel.netlify.app/)
+- [Website Demo](https://optimizely-fullstack-mixpanel.netlify.app/)
+- [Github](https://github.com/jondjones-poc/optimizely-fullstack-mixpanel)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d76a328d-0dbb-431a-9caf-9cdcac1475d6/deploy-status)](https://app.netlify.com/sites/optimizely-fullstack-mixpanel/deploys)
 
